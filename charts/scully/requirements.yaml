@@ -1,4 +1,4 @@
 dependencies:
 - name: mulder
-  repository: http://chartmuseum.jx.35.199.169.72.nip.io/charts
+  repository: https://the-jenkins-x-files.github.io/charts
   version: 1.0.0
